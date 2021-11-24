@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tuupola/base32": "1.0.0",
+        "tecnickcom/tc-lib-barcode": "^1.15"
+    }
+}
